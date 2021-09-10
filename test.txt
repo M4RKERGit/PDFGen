@@ -1,0 +1,8 @@
+bwor:Starting...
+line:
+word:Is anybody here?
+word:Okay
+word:Russian isn't allowed
+line:
+bwor:Shutdown...
+OVER
